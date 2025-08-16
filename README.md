@@ -13,7 +13,7 @@ A stylish, modern website for **ITGrl**, a creative business offering polaroid p
 - Google Fonts & custom theme
 
 ## 📸 Preview
-![Screenshot]("C:\Users\snghi\Pictures\DCIM\P45.jpg")
+![Screenshot](https://itgrr.netlify.app/images/P45.jpg)
 
 ## 🚀 Setup
 1. Clone the repo:  
