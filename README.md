@@ -18,4 +18,4 @@ A stylish, modern website for **ITGrl**, a creative business offering polaroid p
 ## 🚀 Setup
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/YourUsername/itgrl-site.git
+   git clone https://github.com/Ndilly/itgrl-site.git
